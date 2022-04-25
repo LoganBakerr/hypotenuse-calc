@@ -1,7 +1,7 @@
 let a;
 let b;
 let c;
-
+// to make the submit button functional
 document.getElementById("myButton2").onclick = function(){
     a = document.getElementById("myInput1").value;
     a = Number(a);
